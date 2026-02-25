@@ -15,5 +15,16 @@ header{
 }
 
 img{
-    width:15%;
+    width:100%;
+}
+
+.imagebutton{
+    background:none;
+    border:none;
+    padding:none;
+    cursor:pointer
+}
+
+.imagebutton img{
+    display:block;
 }
